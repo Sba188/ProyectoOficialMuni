@@ -2,10 +2,10 @@
 // app/core/Database.php
 
 class Database {
-    private $host = "localhost";
-    private $db_name = "test";
-    private $username = "root";
-    private $password = "";
+    private $host = "172.16.20.30";
+    private $db_name = "Investigacion_miercoles";
+    private $username = "desarrollo";
+    private $password = "fisca1234";
     private $conn;
 
     public function getConnection() {
