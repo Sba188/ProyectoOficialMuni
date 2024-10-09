@@ -144,7 +144,7 @@ export class GruposComponent implements OnInit {
       }
     });
   }
-  
+                  
 
   // Método para eliminar un rol
   bajaRol(id: number) {
